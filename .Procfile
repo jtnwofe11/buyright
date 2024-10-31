@@ -1,0 +1,1 @@
+web: gunicorn buyright_prj.wsgi
